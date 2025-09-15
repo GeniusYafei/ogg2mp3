@@ -1,5 +1,5 @@
 # ogg2mp3
-Ogg格式转换成MP3格式 OGG audio files** into **MP3** format using `ffmpeg`.
+Ogg格式转换成MP3格式
 
 # OGG to MP3 Converter (ogg2mp3)
 
