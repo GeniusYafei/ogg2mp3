@@ -25,7 +25,7 @@ Installation
 
 Clone the repository and make the script executable:
 ```
-git clone https://github.com/<your-username>/<repo-name>.git
+git clone git@github.com:GeniusYafei/ogg2mp3.git
 cd <repo-name>
 chmod +x ogg2mp3.py
 (Or just run with python3 ogg2mp3.py)
